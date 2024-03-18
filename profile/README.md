@@ -10,6 +10,6 @@ This repository contains sensitive or proprietary information that is not intend
 
 - **Contributions:** While contributions from authorized users are welcome, please refrain from sharing or disclosing any sensitive or proprietary information when submitting contributions.
 
-If you have any questions or concerns about the contents of this repository, please contact @joshuamil at [jmiller@enrollment123.com](mailto://jmiller@enrollment123.com?SUBJECT=Github%20Repository).
+If you have any questions or concerns about the contents of this repository, please contact us at [compliance@enrollment123.com](mailto://compliance@enrollment123.com?SUBJECT=Github%20Repository).
 
 Thank you for your cooperation and understanding.
